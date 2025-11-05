@@ -274,4 +274,21 @@
     "Produits": []
   }
 
+,
+{
+    "ID": "18",
+    "Type": "Sport",
+    "Nom": "wellyou Itzehoe",
+    "Description": "Salle de sport",
+    "Adresse": "Jahnstraße 2",
+    "Horaires": "06:00-23:00",
+    "Latitude": "53.9233",
+    "Longitude": "9.5295",
+    "GPS": "53.9233, 9.5295",
+    "Telephone": "6666",
+    "SiteWeb": "",
+    "Produits": []
+  }
+
+
 ]
