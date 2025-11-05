@@ -1,0 +1,220 @@
+[
+  {
+    "ID": "1",
+    "Type": "Cafe",
+    "Nom": "Café Central",
+    "Description": "Café cosy",
+    "Adresse": "Hauptstraße 12",
+    "Horaires": "08:00-18:00",
+    "Latitude": "53.9112",
+    "Longitude": "9.5363",
+    "GPS": "53.9112, 9.5363",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Cappuccino", "Prix": 3.5, "Description": "Café espresso avec lait mousseux"},
+      {"Nom": "Croissant", "Prix": 2.0, "Description": "Pâtisserie au beurre"},
+      {"Nom": "Muffin", "Prix": 2.5, "Description": "Gâteau moelleux aux myrtilles"}
+    ]
+  },
+  {
+    "ID": "2",
+    "Type": "Cafe",
+    "Nom": "Café Konditorei Ramm",
+    "Description": "Petit café avec pâtisseries",
+    "Adresse": "Sandberg 53",
+    "Horaires": "07:00-17:30",
+    "Latitude": "53.9248",
+    "Longitude": "9.5222",
+    "GPS": "53.9248, 9.5222",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Latte Macchiato", "Prix": 3.8, "Description": "Espresso avec lait chaud"},
+      {"Nom": "Éclair chocolat", "Prix": 3.0, "Description": "Pâtisserie chocolatée"},
+      {"Nom": "Tarte pommes", "Prix": 2.8, "Description": "Tarte traditionnelle maison"}
+    ]
+  },
+  {
+    "ID": "3",
+    "Type": "Restaurant",
+    "Nom": "Pizzeria La Roma",
+    "Description": "Pizza et pâtes",
+    "Adresse": "Lübecker Str. 20",
+    "Horaires": "11:00-22:00",
+    "Latitude": "53.9190",
+    "Longitude": "9.5407",
+    "GPS": "53.9190, 9.5407",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Pizza Margherita", "Prix": 8.5, "Description": "Tomate, mozzarella, basilic"},
+      {"Nom": "Pasta Carbonara", "Prix": 10.0, "Description": "Pâtes, crème, lardons, parmesan"},
+      {"Nom": "Salade César", "Prix": 7.0, "Description": "Salade avec poulet et parmesan"}
+    ]
+  },
+  {
+    "ID": "4",
+    "Type": "Restaurant",
+    "Nom": "Gasthaus zur Linde",
+    "Description": "Cuisine allemande",
+    "Adresse": "Kirchenstraße 15",
+    "Horaires": "10:00-21:00",
+    "Latitude": "53.9184",
+    "Longitude": "9.5400",
+    "GPS": "53.9184, 9.5400",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Schnitzel", "Prix": 12.0, "Description": "Escalope panée à la sauce traditionnelle"},
+      {"Nom": "Bratwurst", "Prix": 8.5, "Description": "Saucisse allemande grillée"},
+      {"Nom": "Pretzel", "Prix": 3.0, "Description": "Bretzel moelleux salé"}
+    ]
+  },
+  {
+    "ID": "5",
+    "Type": "Krankenhaus",
+    "Nom": "Krankenhaus Itzehoe",
+    "Description": "Hôpital principal",
+    "Adresse": "Holstenstraße 50",
+    "Horaires": "00:00-24:00",
+    "Latitude": "53.9145",
+    "Longitude": "9.5338",
+    "GPS": "53.9145, 9.5338",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": []
+  },
+  {
+    "ID": "6",
+    "Type": "Praxis",
+    "Nom": "Dr. Müller",
+    "Description": "Cabinet médical",
+    "Adresse": "Feldstraße 10",
+    "Horaires": "08:00-16:00",
+    "Latitude": "53.9090",
+    "Longitude": "9.5284",
+    "GPS": "53.9090, 9.5284",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": []
+  },
+  {
+    "ID": "7",
+    "Type": "Cafe",
+    "Nom": "Espresso Bar",
+    "Description": "Café rapide",
+    "Adresse": "Lange Straße 2",
+    "Horaires": "06:30-19:00",
+    "Latitude": "53.9409",
+    "Longitude": "9.5020",
+    "GPS": "53.9409, 9.5020",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Espresso", "Prix": 2.5, "Description": "Café court et intense"},
+      {"Nom": "Americano", "Prix": 3.0, "Description": "Espresso avec eau chaude"},
+      {"Nom": "Brownie", "Prix": 2.5, "Description": "Gâteau chocolaté moelleux"}
+    ]
+  },
+  {
+    "ID": "8",
+    "Type": "Restaurant",
+    "Nom": "Sushi & Co.",
+    "Description": "Restaurant japonais",
+    "Adresse": "Königstraße 8",
+    "Horaires": "11:30-22:30",
+    "Latitude": "53.9100",
+    "Longitude": "9.5300",
+    "GPS": "53.9100, 9.5300",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Sushi Maki", "Prix": 12.0, "Description": "Rouleaux de riz et poisson"},
+      {"Nom": "Tempura", "Prix": 10.0, "Description": "Légumes et crevettes frits"},
+      {"Nom": "Ramen", "Prix": 9.5, "Description": "Soupe japonaise avec nouilles"}
+    ]
+  },
+  {
+    "ID": "9",
+    "Type": "Apotheke",
+    "Nom": "Apotheke am Markt",
+    "Description": "Apotheke",
+    "Adresse": "Markt 1",
+    "Horaires": "08:00-18:30",
+    "Latitude": "53.9080",
+    "Longitude": "9.5325",
+    "GPS": "53.9080, 9.5325",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": []
+  },
+  {
+    "ID": "10",
+    "Type": "Restaurant",
+    "Nom": "Bistro Zum Hafen",
+    "Description": "Cuisine locale",
+    "Adresse": "Hafenstraße 5",
+    "Horaires": "10:00-20:00",
+    "Latitude": "53.9150",
+    "Longitude": "9.5400",
+    "GPS": "53.9150, 9.5400",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Soupe du jour", "Prix": 5.0, "Description": "Préparée avec des ingrédients locaux"},
+      {"Nom": "Plat du jour", "Prix": 11.0, "Description": "Plat typique du bistro"},
+      {"Nom": "Salade mixte", "Prix": 6.5, "Description": "Légumes frais et vinaigrette maison"}
+    ]
+  },
+  {
+    "ID": "11",
+    "Type": "Parking",
+    "Nom": "Parking Rathaus",
+    "Description": "Parking gratuit 2H",
+    "Adresse": "Reichenstraße 27-23",
+    "Horaires": "08:00-18:00",
+    "Latitude": "53.9196",
+    "Longitude": "9.5155",
+    "GPS": "53.9196, 9.5155",
+    "Telephone": "",
+    "SiteWeb": "",
+    "Produits": []
+  },
+  {
+    "ID": "12",
+    "Type": "Restaurant",
+    "Nom": "Amadeus",
+    "Description": "Restaurant",
+    "Adresse": "Reichenstraße 19",
+    "Horaires": "11:00-22:00",
+    "Latitude": "53.9200",
+    "Longitude": "9.5160",
+    "GPS": "53.9200, 9.5160",
+    "Telephone": "112233",
+    "SiteWeb": "",
+    "Produits": [
+      {"Nom": "Pizza Margharitta", "Prix": 15.0, "Description": "Pizza Margharitta"},
+      {"Nom": "Pâtes Bolognaise", "Prix": 10.5, "Description": "Pâtes avec sauce tomate et viande"},
+      {"Nom": "Salade verte", "Prix": 6.0, "Description": "Salade fraîche avec vinaigrette"}
+    ]
+  },
+  {
+    "ID": "13",
+    "Type": "Pizzeria",
+    "Nom": "Lauschbar Pizza",
+    "Description": "Pizzeria",
+    "Adresse": "Sandberg 15",
+    "Horaires": "16:00-23:00",
+    "Latitude": "53.9234",
+    "Longitude": "9.5196",
+    "GPS": "53.9234, 9.5196",
+    "Telephone": "22222",
+    "SiteWeb": "https://www.lauschbar-pizzapasta.de/",
+    "Produits": [
+      {"Nom": "Pizza Margharita", "Prix": 10.0, "Description": "Pizza Margharitta"},
+      {"Nom": "Pizza Salami", "Prix": 7.5, "Description": "Pizza Salami"},
+      {"Nom": "Pizza mix", "Prix": 10.5, "Description": "Pizza mix"}
+    ]
+  }
+]
