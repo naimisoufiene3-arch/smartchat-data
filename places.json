@@ -230,8 +230,7 @@
     "Telephone": "11111",
     "SiteWeb": "",
     "Produits": []
-  }
-,
+  },
 {
     "ID": "15",
     "Type": "MecaniK Auto",
@@ -245,5 +244,20 @@
     "Telephone": "55555",
     "SiteWeb": "",
     "Produits": []
+  },
+{
+    "ID": "16",
+    "Type": "Pieces Auto",
+    "Nom": "ATU",
+    "Description": "Vente Pieces Auto",
+    "Adresse": "Rotenbrook 1",
+    "Horaires": "08:00-17:00",
+    "Latitude": "53.9227",
+    "Longitude": "9.5097",
+    "GPS": "53.9227, 9.5097",
+    "Telephone": "7777",
+    "SiteWeb": "",
+    "Produits": []
   }
+
 ]
