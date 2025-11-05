@@ -216,5 +216,19 @@
       {"Nom": "Pizza Salami", "Prix": 7.5, "Description": "Pizza Salami"},
       {"Nom": "Pizza mix", "Prix": 10.5, "Description": "Pizza mix"}
     ]
+  },
+{
+    "ID": "14",
+    "Type": "Kiosk",
+    "Nom": "Kiosk nord",
+    "Description": "commerce rapide",
+    "Adresse": "Sandberg 142A",
+    "Horaires": "00:00-24:00",
+    "Latitude": "53.9304",
+    "Longitude": "9.5316",
+    "GPS": "53.9304, 9.5316",
+    "Telephone": "11111",
+    "SiteWeb": "",
+    "Produits": []
   }
 ]
