@@ -258,6 +258,20 @@
     "Telephone": "7777",
     "SiteWeb": "",
     "Produits": []
+  },
+{
+    "ID": "17",
+    "Type": "HIGH TECH Internet",
+    "Nom": "Vodafone Shop",
+    "Description": "Vente HIGH TECH",
+    "Adresse": "Bekstraße 15",
+    "Horaires": "09:00-18:00",
+    "Latitude": "53.9240",
+    "Longitude": "9.5166",
+    "GPS": "53.9240, 9.5166",
+    "Telephone": "123123",
+    "SiteWeb": "",
+    "Produits": []
   }
 
 ]
