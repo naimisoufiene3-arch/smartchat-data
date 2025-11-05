@@ -78,9 +78,9 @@
     "Description": "Hôpital principal",
     "Adresse": "Holstenstraße 50",
     "Horaires": "00:00-24:00",
-    "Latitude": "53.9145",
-    "Longitude": "9.5338",
-    "GPS": "53.9145, 9.5338",
+    "Latitude": "53.9428",
+    "Longitude": "9.5038",
+    "GPS": "53.9428, 9.5038",
     "Telephone": "",
     "SiteWeb": "",
     "Produits": []
@@ -228,6 +228,21 @@
     "Longitude": "9.5316",
     "GPS": "53.9304, 9.5316",
     "Telephone": "11111",
+    "SiteWeb": "",
+    "Produits": []
+  }
+,
+{
+    "ID": "15",
+    "Type": "MecaniK Auto",
+    "Nom": "Auto Expert",
+    "Description": "reparation Auto",
+    "Adresse": "Holtweg 1A",
+    "Horaires": "08:00-17:00",
+    "Latitude": "53.9442",
+    "Longitude": "9.4965",
+    "GPS": "53.9442, 9.4965",
+    "Telephone": "55555",
     "SiteWeb": "",
     "Produits": []
   }
