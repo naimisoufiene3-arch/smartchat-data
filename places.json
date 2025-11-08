@@ -1,7 +1,7 @@
 [
   {
     "ID": "1",
-    "Type": "Cafe",
+    "Type": "Cafeteria",
     "Nom": "Tchibo",
     "Description": "Tchibo",
     "Adresse": "Hauptstraße 12, 25524 Itzehoe",
@@ -20,7 +20,7 @@
   },
   {
     "ID": "2",
-    "Type": "Cafe",
+    "Type": "Cafeteria",
     "Nom": "Cafe Konditorei Ramm",
     "Description": "Petit café avec pâtisseries",
     "Adresse": "Sandberg 53, 25524 Itzehoe",
