@@ -149,7 +149,7 @@
     "GPS": "53.9080, 9.5325",
     "Telephone": "",
     "SiteWeb": "",
-    "Produits": []
+    "Produits": [{"Nom": "Medicament"}]
   },
   {
     "ID": "10",
