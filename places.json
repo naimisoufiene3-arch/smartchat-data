@@ -34,7 +34,7 @@
       {"Nom": "Latte Macchiato", "Prix": 3.8, "Description": "Espresso avec lait chaud"},
       {"Nom": "Éclair chocolat", "Prix": 3.0, "Description": "Pâtisserie chocolatée"},
       {"Nom": "Tarte pommes", "Prix": 2.8, "Description": "Tarte traditionnelle maison"},
-      {"Nom": "cafe", "Prix": 3.8, "Description": "cafe noir"},
+      {"Nom": "Café", "Prix": 3.8, "Description": "cafe noir"},
     ]
   },
   {
