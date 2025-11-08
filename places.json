@@ -2,7 +2,7 @@
   {
     "ID": "1",
     "Type": "Cafe",
-    "Nom": "Café Central",
+    "Nom": "Cafe Central",
     "Description": "Café cosy",
     "Adresse": "Hauptstraße 12, 25524 Itzehoe",
     "Horaires": "08:00-18:00",
@@ -21,7 +21,7 @@
   {
     "ID": "2",
     "Type": "Cafe",
-    "Nom": "Café Konditorei Ramm",
+    "Nom": "Cafe Konditorei Ramm",
     "Description": "Petit café avec pâtisseries",
     "Adresse": "Sandberg 53, 25524 Itzehoe",
     "Horaires": "07:00-17:30",
