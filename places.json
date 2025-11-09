@@ -164,8 +164,8 @@
     "Telephone": "",
     "SiteWeb": "",
     "Produits": [
-      {"Nom": "Soupe du jour", "Prix": 5.0, "Description": "Préparée avec des ingrédients locaux"},
-      {"Nom": "Plat du jour", "Prix": 11.0, "Description": "Plat typique du bistro"},
+      {"Nom": "Soupe", "Prix": 5.0, "Description": "Préparée avec des ingrédients locaux"},
+      {"Nom": "Plat bistro", "Prix": 11.0, "Description": "Plat typique du bistro"},
       {"Nom": "Salade mixte", "Prix": 6.5, "Description": "Légumes frais et vinaigrette maison"}
     ]
   },
