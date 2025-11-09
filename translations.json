@@ -14,7 +14,7 @@
       "open": "Ouvert",
       "closed": "Fermé",
       "stories": "Histoires",
-      "smartchat_intro": "Bienvenue dans SmartChat, votre assistant local intelligent !",
+      "smartchat_intro": "Bienvenue sur SmartChat !",
       "voice_search": "Recherche vocale activée",
       "Je n'ai trouvé aucun commerce correspondant.": "Je n'ai trouvé aucun commerce correspondant.",
       "Voici les détails demandés :\n\n": "Voici les détails demandés :\n\n",
@@ -59,7 +59,7 @@
       "open": "Open",
       "closed": "Closed",
       "stories": "Stories",
-      "smartchat_intro": "Welcome to SmartChat, your smart local assistant!",
+      "smartchat_intro": "Welcome to SmartChat!",
       "voice_search": "Voice search activated",
       "Je n'ai trouvé aucun commerce correspondant.": "I didn't find any matching shop.",
       "Voici les détails demandés :\n\n": "Here are the requested details:\n\n",
@@ -104,7 +104,7 @@
       "open": "Geöffnet",
       "closed": "Geschlossen",
       "stories": "Geschichten",
-      "smartchat_intro": "Willkommen bei SmartChat, Ihrem intelligenten lokalen Assistenten!",
+      "smartchat_intro": "Willkommen bei SmartChat!",
       "voice_search": "Sprachsuche aktiviert",
       "Je n'ai trouvé aucun commerce correspondant.": "Ich habe kein passendes Geschäft gefunden.",
       "Voici les détails demandés :\n\n": "Hier sind die angeforderten Details:\n\n",
@@ -149,7 +149,7 @@
       "open": "مفتوح",
       "closed": "مغلق",
       "stories": "القصص",
-      "smartchat_intro": "مرحبًا بك في SmartChat، مساعدك المحلي الذكي!",
+      "smartchat_intro": "مرحبًا بك في SmartChat!",
       "voice_search": "تم تفعيل البحث الصوتي",
       "Je n'ai trouvé aucun commerce correspondant.": "لم أجد أي متجر مطابق.",
       "Voici les détails demandés :\n\n": "إليك التفاصيل المطلوبة:\n\n",
@@ -180,19 +180,5 @@
       "Horaires non précisés": "ساعات العمل غير محددة",
       "Écrire votre message...": "اكتب رسالتك..."
     }
-  },
-  "greetings": {
-    "fr": ["bonjour", "salut", "coucou", "cc"],
-    "en": ["hi", "hello"],
-    "de": ["hallo", "guten tag", "moin"],
-    "ar": ["مرحبا", "أهلا"]
-  },
-  "specialCommands": {
-    "details": ["details", "détails", "info", "information", "informationen"],
-    "horaires": ["horaires", "opening hours", "öffnungszeiten"],
-    "status": ["status", "statut", "ouvert", "fermé", "offen", "geschlossen"],
-    "tel": ["tel", "téléphone", "phone", "telefon"],
-    "siteweb": ["siteweb", "web", "website", "webseite"],
-    "parking": ["parking", "parkplatz"]
   }
 }
