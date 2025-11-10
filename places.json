@@ -139,7 +139,7 @@
       {"Nom": "Americano", "Prix": 3.0, "Description": "Espresso avec eau chaude"},
       {"Nom": "Brownie", "Prix": 2.5, "Description": "Gâteau chocolaté moelleux"}
     ]
-  }
+  },
   {
     "ID": "8",
     "Type": "Restaurant",
